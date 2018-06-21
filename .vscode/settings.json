@@ -1,0 +1,5 @@
+{
+  "python.linting.enabled": false,
+  "python.pythonPath": "/nfs/2017/r/rsharma/.brew/opt/python/bin/python3.6",
+  "python.formatting.provider": "black"
+}
